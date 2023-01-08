@@ -1,4 +1,4 @@
-# AWS related scripts
+# AWS related scripts - CloudFormation
 
 ## deployvpc
 
